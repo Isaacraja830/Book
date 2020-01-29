@@ -21,6 +21,8 @@ public class Rocks {
 		FileOutputStream o = new FileOutputStream(loc);
 		w.write(o);
 		System.out.println("Written Successfully");
+		System.out.println("Written Successfully");
+		System.out.println("Written Successfully");
 		
 	}
 	
